@@ -8,7 +8,7 @@ Auteurs :
 - Alexandre HOMO alexandre.homo@agrocampus-ouest.fr
 - François LE MOAL francois.lemoal@agrocampus-ouest.fr
 
-Source des données :
+Source des données :  
 https://www.kaggle.com/datasets/START-UMD/gtd 
 
 Documents à disposition :
